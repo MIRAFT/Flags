@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #d2d2d2
+}
+.Back{
+    height: 250px;
+    width: 400px;
+    background: red;
+    border-radius: 10px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+.JapSun{
+    background: red;
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    
+    }
+.Flags{
+    display: flex;
+    column-gap: 40px;
+}
+.UssrTools{
+    height: 75px;
+    transform:  translateX(-135px) translateY(-55px);
+}
+.Canada__Leaf{
+    height: 200px;
+    transform: translateY(20px)
+}
+.CanadaLine{
+    background: white;
+    height: 250px;
+    width: 175px;
+}
