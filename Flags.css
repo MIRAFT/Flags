@@ -1,43 +1,66 @@
 body{
     margin: 0px;
-    padding: 0px;
-    background: #d2d2d2
+    padding: 10px;
+    background: #d2d2d2;
+    position: ;
 }
 .Back{
+    
+    
+}
+.JapanFlag{
+    margin-right: 10px;
+    height: 250px;
+    width: 400px;
+    background: white;
+    border-radius: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+.JapSun{
+    position: absolute;
+    margin: 63px 138px;
+    background: red;
+    height: 125px;
+    width: 125px;
+    border-radius: 50%;
+    
+    
+    }
+.Flags{
+       
+}
+.UssrTools{
+    height: 75px;
+    margin: 20px;
+    
+}
+.UssrFlag{
+    margin-right: 10px;
     height: 250px;
     width: 400px;
     background: red;
     border-radius: 10px;
+    box-sizing: border-box;
+    float: left;
     
-}
-.JapSun{
-    background: red;
-    height: 124px;
-    width: 124px;
-    border-radius: 50%;
-    transform: translateX(138px) translateY(62px);
-    }
-.Flags{
-    
-}
-.UssrTools{
-    height: 75px;
-    transform:  translateX(20px) translateY(20px);
-}
-.UssrFlag{
-    transform: translateX(420px) translateY(-250px)
 }
 .CanadaFlag{
-    transform: translateX(840px) translateY(-500px);
+    height: 250px;
+    width: 400px;
+    background: red;
+    border-radius: 10px;
+    box-sizing: border-box;
+    float: left;
 }
 .Canada__Leaf{
     height: 200px;
-    transform: translateY(20px);
+    margin-top: 20px;
     
 }
 .CanadaLine{
     background: white;
     height: 250px;
     width: 175px;
-    transform: translateX(110px)
+    margin-left: 112px;
 }
